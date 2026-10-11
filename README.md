@@ -27,7 +27,7 @@ which built on my earlier work.
 My ongoing MCP TypeScript SDK work concerns exact `Accept` media-type validation:
 [main implementation #2481](https://github.com/modelcontextprotocol/typescript-sdk/pull/2481)
 and [v1 backport draft #2738](https://github.com/modelcontextprotocol/typescript-sdk/pull/2738).
-These contributions are still under review.
+These contributions are awaiting maintainer review.
 
 ## Projects
 
