@@ -7,6 +7,12 @@ and reproducible fixes in existing codebases.
 **[个人展示 · Agent 与 AI](http://122.51.52.78/)**  
 Technical notes, personal projects, and an interactive timeline.
 
+<a href="http://122.51.52.78/">
+  <img src="assets/agent-ai-showcase.png" alt="Agent 与 AI：蝴蝶时间切片交互展示页，点击访问" width="800">
+</a>
+
+*Live-site preview captured on October 11, 2026. Click the image to explore.*
+
 ## Selected open-source contributions
 
 Four pull requests authored by me have been merged into
