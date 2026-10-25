@@ -1,18 +1,21 @@
 # SnowSky1
 
-你好，我是王好涛（SnowSky1）。我构建面向 AI Agent 的工具，也创作可交互的数字体验作品；
-主要技术栈是 TypeScript、Python 与 Windows 自动化，方向包括 agent 集成、会话可靠性、
-图像生成工具链，以及在既有代码库中完成可复现的修复。
+你好，我是王好涛（SnowSky1）。
+
+平时用 TypeScript、Python 和 Windows 自动化给 AI Agent 写工具：
+会话恢复、图像生成流程，以及上游开源项目的修复与集成。
+另一部分时间在做交互作品——把对 AI 与交互的研究，
+做成浏览器里可以打开、可以亲手体验的东西。
 
 I build tools for AI agents with TypeScript, Python, and Windows automation.
 My work includes agent integrations, session reliability, image-generation tooling,
 and reproducible fixes in existing codebases.
 
 **[个人作品集 · 作品与探索](http://122.51.52.78:8088/)**  
-Twelve interactive projects across AI, interaction studies, and web recreations.
+十二个可打开的项目：Agent 系统研究、交互叙事与网站复刻。
 
 **[个人展示 · Agent 与 AI](http://122.51.52.78/)**  
-Technical notes, personal projects, and an interactive timeline.
+在蝴蝶飞行的时间切片里，读 36 篇关于 Agent 与 AI 的笔记与思考。
 
 <a href="http://122.51.52.78/">
   <img src="assets/agent-ai-showcase.png" alt="Agent 与 AI：蝴蝶时间切片交互展示页，点击访问" width="800">
